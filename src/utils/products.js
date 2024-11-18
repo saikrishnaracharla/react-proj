@@ -254,7 +254,7 @@ export const products = [
 
   {
     id: "12",
-    productName: "Broken Ri",
+    productName: "Broken Rice",
     imgUrl: phone03,
     category: "Sub-Products",
     price: 599,
