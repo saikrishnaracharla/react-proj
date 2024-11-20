@@ -86,7 +86,7 @@ export const serviceData = [
 export const discoutProducts = [
   {
     id: "01",
-    productName: "Old Basmati Rice ",
+    productName: "Old Basmati Rice 25kg",
     imgUrl: productImg01,
     category: "Rice",
     price: 3000,
@@ -95,7 +95,7 @@ export const discoutProducts = [
   },
   {
     id: "02",
-    productName: "New Basmati Rice",
+    productName: "New Basmati Rice 25kg",
     imgUrl: productImg02,
     category: "Rice",
     price: 2800,
@@ -104,7 +104,7 @@ export const discoutProducts = [
   },
   {
     id: "08",
-    productName: "Old Jaishree ram Rice",
+    productName: "Old Jaishree ram Rice 25kg",
     imgUrl: productImg08,
     category: "Paddy",
     price: 1850,
@@ -113,7 +113,7 @@ export const discoutProducts = [
   },
   {
     id: "09",
-    productName: "Paddy",
+    productName: "Paddy 25kg",
     imgUrl: productImg09,
     category: "Paddy",
     price: 1350,
@@ -122,7 +122,7 @@ export const discoutProducts = [
   },
   {
     id: "12",
-    productName: "Husk",
+    productName: "Husk 25kg",
     imgUrl: phone03,
     category: "Sub-Products",
     price: 900,
@@ -131,7 +131,7 @@ export const discoutProducts = [
   },
   {
     id: "13",
-    productName: "Raw rice",
+    productName: "Raw rice 25kg",
     imgUrl: phone04,
     category: "Sub-Products",
     price: 799,
@@ -144,7 +144,7 @@ export const discoutProducts = [
 export const products = [
   {
     id: "01",
-    productName: "Old Basmati Rice ",
+    productName: "Old Basmati Rice 25kg ",
     imgUrl: productImg01,
     category: "Rice",
     price: 3000,
@@ -154,7 +154,7 @@ export const products = [
 
   {
     id: "02",
-    productName: "New Basmati Rice",
+    productName: "New Basmati Rice 25kg",
     imgUrl: productImg02,
     category: "Rice",
     price: 2800,
@@ -164,7 +164,7 @@ export const products = [
 
   {
     id: "03",
-    productName: "Old Long Grain Rice",
+    productName: "Old Long Grain Rice 25kg",
     imgUrl: productImg08,
     category: "Rice",
     price: 1850,
@@ -173,7 +173,7 @@ export const products = [
   },
   {
     id: "04",
-    productName: "New Long Grain Rice ",
+    productName: "New Long Grain Rice 25kg",
     imgUrl: productImg02,
     category: "Rice",
     price: 1750,
@@ -181,7 +181,7 @@ export const products = [
   },
   {
     id: "05",
-    productName: "Old Medium Grain rice",
+    productName: "Old Medium Grain rice 25kg",
     imgUrl: productImg04,
     category: "Rice",
     price: 1700,
@@ -190,7 +190,7 @@ export const products = [
 
   {
     id: "06",
-    productName: "New Medium Grain rice",
+    productName: "New Medium Grain rice 25kg",
     imgUrl: productImg05,
     category: "Rice",
     price: 1650,
@@ -199,7 +199,7 @@ export const products = [
 
   {
     id: "07",
-    productName: "Old Short Grain rice",
+    productName: "Old Short Grain rice 25kg",
     imgUrl: productImg06,
     category: "Rice",
     price: 1600,
@@ -207,7 +207,7 @@ export const products = [
   },
   {
     id: "08",
-    productName: "New Short Grain rice",
+    productName: "New Short Grain rice 25kg",
     imgUrl: productImg07,
     category: "Rice",
     price: 1550,
@@ -218,7 +218,7 @@ export const products = [
 
   {
     id: "08",
-    productName: "Old Paddy",
+    productName: "Old Paddy 25kg",
     imgUrl: productImg08,
     category: "Paddy",
     price: 1100,
@@ -227,7 +227,7 @@ export const products = [
 
   {
     id: "09",
-    productName: "New Paddy",
+    productName: "New Paddy 25kg",
     imgUrl: productImg09,
     category: "Paddy",
     price: 1000,
@@ -236,7 +236,7 @@ export const products = [
 
   {
     id: "10",
-    productName: "Brown Rice",
+    productName: "Brown Rice 25kg",
     imgUrl: phone01,
     category: "Sub-Products",
     price: 900,
@@ -245,7 +245,7 @@ export const products = [
 
   {
     id: "11",
-    productName: "Husk",
+    productName: "Husk 25kg",
     imgUrl: phone02,
     category: "Sub-Products",
     price: 700,
@@ -254,7 +254,7 @@ export const products = [
 
   {
     id: "12",
-    productName: "Broken Rice",
+    productName: "Broken Rice 25kg",
     imgUrl: phone03,
     category: "Sub-Products",
     price: 599,
@@ -263,7 +263,7 @@ export const products = [
 
   {
     id: "13",
-    productName: "Rice Bran Oil",
+    productName: "Rice Bran Oil 1 litre",
     imgUrl: phone04,
     category: "Sub-Products",
     price: 799,
@@ -272,7 +272,7 @@ export const products = [
 
   {
     id: "14",
-    productName: "Rice Dust",
+    productName: "Rice Dust 25kg",
     imgUrl: phone05,
     category: "Sub-Products",
     price: 899,
