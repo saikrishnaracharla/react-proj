@@ -37,7 +37,8 @@ const Footer = () => {
             <Col md={3} sm={5} className='box'>
               <h2>Contact Us</h2>
               <ul>
-                <li>Jaipur,Mancherial,Telangana </li>
+                <li>Door No. 144/3, Main Road, Mudigunta
+                   Mdl: Jaipur, Dist: Mancherial- 504 302.(Telangana) </li>
                 <li>Email: narlasrinivas@gmail.com</li>
                 <li>Phone: 9393257852</li>
               </ul>
